@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GF-ReyesDelCiclismo</string>
+
+    <string name="btn_irARegistrarse">Registrate</string>
+    <string name="btn_inscritos">Inscritos</string>
+    <string name="btn_salir">Cerrar Aplicación</string>
+    <string name="btn_guardar">Guardar</string>
+
+    <string name="chk_mail">Deseo recibir noticias de nuestros productos por correo electronico.</string>
+
+    <string name="numero_identidad">Ingrese número</string>
+    <string name="nombre_completo">Ingrese nombres y apellidos</string>
+    <string name="categoria">A, B, C, o D</string>
+    <string name="equipo">Equipo a representar</string>
+    <string name="eMail">Correo elctrónico</string>
+
+
+</resources>
